@@ -1,5 +1,5 @@
-const hello = () => {
+const tulas = () => {
     console.log("Hello Node.js!");
   };
   
-  hello();
+  tulas();
